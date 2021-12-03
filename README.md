@@ -1,4 +1,4 @@
-# WEB NEWS SCRAPING & CLASSIFICATION 
+# WEB NEWS SCRAPING & CLASSIFICATION | NLP (Natural Language Processing)
 Web news are crawled from various articles and classified by multiple methods such as: 
 * Multinomial Naive Bayes
 * Decision Trees
